@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor] https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -35,11 +35,11 @@ I really like the final product but i bealive the code can improve a lot, the to
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com/html/default.asp) - This page is amazing because explain the format of html and css, you can search and view of simple mode how works a specific etiquets, see examples of code that you can edit online.
+- Resource 1 https://www.w3schools.com/html/default.asp - This page is amazing because explain the format of html and css, you can search and view of simple mode how works a specific etiquets, see examples of code that you can edit online.
 
 ## Author
 
-- Frontend Mentor - [@Dramm](https://www.frontendmentor.io/profile/Dramm)
-- GitHub - [@Dramm-bit](https://github.com/Dramm-bit)
+- Frontend Mentor - [@Dramm] https://www.frontendmentor.io/profile/Dramm
+- GitHub - [@Dramm-bit] https://github.com/Dramm-bit
 
 
