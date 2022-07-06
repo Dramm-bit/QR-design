@@ -1,0 +1,89 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+  min-height: 100vh;
+  background:  #D5E1EF;
+}
+
+
+  .card{
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+
+    width: 325px;
+    height: 500px;
+    border-radius: 20px;
+    background: #FFFFFF;
+
+  }
+
+
+  .card__pasteQR{
+    
+    margin-top: 19px;
+    width: 288px;
+    height: 289px;
+    
+    background: url(image-qr-code.png);
+    border-radius: 10px;
+    background-size: cover;
+    
+  
+  }
+  .card__box-of-both-text{
+    
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+    margin-top: 20px;
+  
+
+  }
+  .card__title{
+    width: 252px;
+    height: 59px;
+   
+   
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #1F3251;
+
+
+  }
+  .card__paragraph{
+    
+   
+    width: 260px;
+    height: 57px;
+    margin-top:20px;
+    
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #7B8B9D;
+  }
