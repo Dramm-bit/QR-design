@@ -5,7 +5,7 @@
 }
 
 
-.background {
+body {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -15,13 +15,13 @@
 }
 
 
-  .card {
+  .card{
     
     display: flex;
     align-items: center;
-    flex-flow: column wrap;
-   
-   
+    flex-direction: column;
+    
+
     width: 325px;
     height: 500px;
     border-radius: 20px;
@@ -30,7 +30,7 @@
   }
 
 
-  .pasteQR{
+  .card__pasteQR{
     
     margin-top: 19px;
     width: 288px;
@@ -42,7 +42,7 @@
     
   
   }
-  .box-of-both-text{
+  .card__box-of-both-text{
     
     display: flex;
     align-items: center;
@@ -52,10 +52,10 @@
   
 
   }
-  .title{
+  .card__title{
     width: 252px;
     height: 59px;
-    justify-content: center;
+   
    
 
     font-family: 'Outfit';
@@ -69,7 +69,7 @@
 
 
   }
-  .paragraph{
+  .card__paragraph{
     
    
     width: 260px;
